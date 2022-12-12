@@ -1,1 +1,1 @@
-# Ex2_React
+# Ex2_Android App
